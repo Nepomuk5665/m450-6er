@@ -1,0 +1,12 @@
+# Course material (separate git repo cloned from TBZ GitLab)
+/m450/
+
+# Local npm cache
+/npm-cache/
+
+# Tooling state
+/.omc/
+.idea/
+
+# macOS
+.DS_Store
