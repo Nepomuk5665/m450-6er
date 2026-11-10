@@ -5,7 +5,7 @@
 /npm-cache/
 
 # Tooling state
-/.omc/
+.omc/
 .idea/
 
 # macOS
